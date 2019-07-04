@@ -1,0 +1,11 @@
+C:\Users\VLAD\source\repos\DzMathLibrary\DzMathLibrary\bin\Debug\DzMathLibrary.dll
+C:\Users\VLAD\source\repos\DzMathLibrary\DzMathLibrary\bin\Debug\DzMathLibrary.pdb
+C:\Users\VLAD\source\repos\DzMathLibrary\DzMathLibrary\obj\Debug\DzMathLibrary.csprojAssemblyReference.cache
+C:\Users\VLAD\source\repos\DzMathLibrary\DzMathLibrary\obj\Debug\DzMathLibrary.csproj.CoreCompileInputs.cache
+C:\Users\VLAD\source\repos\DzMathLibrary\DzMathLibrary\obj\Debug\DzMathLibrary.dll
+C:\Users\VLAD\source\repos\DzMathLibrary\DzMathLibrary\obj\Debug\DzMathLibrary.pdb
+C:\Users\VLAD\Desktop\С# dz\Quadratic equation\DzMathLibrary\DzMathLibrary\bin\Debug\DzMathLibrary.dll
+C:\Users\VLAD\Desktop\С# dz\Quadratic equation\DzMathLibrary\DzMathLibrary\bin\Debug\DzMathLibrary.pdb
+C:\Users\VLAD\Desktop\С# dz\Quadratic equation\DzMathLibrary\DzMathLibrary\obj\Debug\DzMathLibrary.csproj.CoreCompileInputs.cache
+C:\Users\VLAD\Desktop\С# dz\Quadratic equation\DzMathLibrary\DzMathLibrary\obj\Debug\DzMathLibrary.dll
+C:\Users\VLAD\Desktop\С# dz\Quadratic equation\DzMathLibrary\DzMathLibrary\obj\Debug\DzMathLibrary.pdb
